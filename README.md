@@ -1,12 +1,12 @@
-# Rock Paper Scissors Game
+# Extreme Rock Paper Scissors Game
 
-#### _A webpage that allows two players to play Rock, Paper, Scissors, 15 February 2017_
+#### _A webpage that allows two players to play Rock, Paper, Scissors with many more options, 15 February 2017_
 
 #### By _**Erica Wright & Matt Kelley**_
 
 ## Description
 
-This webpage will allow two users to play Rock, Paper, Scissors and display the winner.
+This webpage will allow two users to play Rock, Paper, Scissors and display the winner. There are 16 choices to pick from and the game is single or two player.
 
 ## Setup/Installation Requirements
 
